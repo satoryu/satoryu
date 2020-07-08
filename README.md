@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**satoryu/satoryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Tatsuya Sato a.k.a @satoryu has expriences as programmer for 10+ years. 
+His career started as programmer since 2009 and then he started contributing some OSSs.
 
-Here are some ideas to get you started:
+He loves programming language Ruby <3 and its communities in Japan.
+And also 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you wanna read more about me, [see my profile page](https://github.com/). 
+
+### :pencil: Learning
+
+He is currently interested in and learning:
+
+- Azure
+- Vue.js
+- PWA
+- JAMStack
+
+### 📫 How to reach me
+
+Do you want to conntact me? Thanks!
+You can get in touch via:
+
+- :e-mail: `satoryu.1981{at}gmail.com`
+- [GitHub](https://github.com/satoryu)
+- [Facebook](https://www.facebook.com/satoryu)
+- [Twitter](https://twitter.com/satoryuofficial)
