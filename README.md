@@ -4,7 +4,6 @@ This is Tatsuya Sato a.k.a @satoryu has expriences as programmer for 10+ years.
 His career started as programmer since 2009 and then he started contributing some OSSs.
 
 He loves programming language Ruby <3 and its communities in Japan.
-And also 
 
 If you wanna read more about me, [see my profile page](https://github.com/). 
 
