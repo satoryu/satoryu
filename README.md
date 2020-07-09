@@ -15,6 +15,7 @@ He is currently interested in and learning:
 - Vue.js
 - PWA
 - JAMStack
+- OSS
 
 ### 📫 How to reach me
 
