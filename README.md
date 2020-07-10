@@ -5,7 +5,7 @@ His career started as programmer since 2009 and then he started contributing som
 
 He loves programming language Ruby <3 and its communities in Japan.
 
-If you wanna read more about me, [see my profile page](https://github.com/satoryu). 
+If you wanna read more about me, [see my profile page](https://satoryu.github.io/). 
 
 ### :pencil: Learning
 
