@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-This is Tatsuya Sato a.k.a @satoryu has expriences as programmer for 10+ years. 
-His career started as programmer since 2009 and then he started contributing some OSSs.
+Tatsuya Sato a.k.a @satoryu is a software engineer at DENSO in Japan.
+He has expriences as programmer for 10+ years. 
+His career started as Ruby programmer since 2009 and then he started contributing OSSs.
 
 He loves Ruby and JavaScript <3 and its communities in Japan. 
 
@@ -11,6 +12,7 @@ If you wanna read more about me, [see my profile page](https://satoryu.github.io
 
 He is currently interested in and learning:
 
+- AWS
 - Azure
 - Vue.js
 - PWA
