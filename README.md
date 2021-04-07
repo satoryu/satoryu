@@ -15,7 +15,7 @@ He is currently interested in and learning:
 - AWS
 - Azure
 - Vue.js
-- 
+- Flutter
 - PWA
 - JAMStack
 - OSS
