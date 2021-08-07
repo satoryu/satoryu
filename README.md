@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tatsuya Sato a.k.a @satoryu is a software engineer at DENSO in Japan.
+Tatsuya Sato a.k.a @satoryu is a software engineer in Japan.
 He has expriences as programmer for 10+ years. 
 His career started as Ruby programmer since 2009 and then he started contributing OSSs.
 
