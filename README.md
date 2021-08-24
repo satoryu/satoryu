@@ -6,7 +6,7 @@ His career started as Ruby programmer since 2009 and then he started contributin
 
 He loves Ruby and JavaScript <3 and its communities in Japan. 
 
-If you wanna read more about me, [see my profile page](https://satoryu.github.io/). 
+If you wanna read more about me, [see my profile page](https://www.satoryu.com/). 
 
 ### :pencil: Learning
 
